@@ -1,0 +1,3 @@
+"# .gitignore for TensorFlow project" 
+saved_models/
+.ipynb_checkpoints/
